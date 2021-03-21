@@ -1,1 +1,1 @@
-# Learnt how to implement exter CSS
+# Learnt how to implement external CSS
